@@ -1,0 +1,43 @@
+.sanya-wrapper{
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.sanya-wrapper-container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 150px;
+    margin-bottom: 120px;
+}
+
+.sanya-wrapper-container-img__house{
+    width: 425px;
+    height: auto;
+}
+
+.sanya-wrapper-container-text{
+    display: flex;
+    flex-direction: column;
+    margin-left: 142px;
+}
+
+.sanya-wrapper-container-text__mission{
+    color: #1C2323;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    width: 280px;
+    margin-bottom: 50px;
+}
+
+.sanya-wrapper-container-text__applying{
+    color: #486958;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 350px ;
+}
